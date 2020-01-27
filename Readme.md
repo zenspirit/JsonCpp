@@ -3,7 +3,7 @@ This project stems from crow.
 
 https://github.com/ipkn/crow
 
-Crow has many features, among them only "Json" part is separated to be independent header onley json library for C++.
+Crow has many features, among them only "Json" part is separated to be independent header only json library for C++.
 
 # Dependencies
 
